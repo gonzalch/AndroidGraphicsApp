@@ -1,0 +1,16 @@
+// $[AppName].java
+
+package $[PackageName];
+
+import turtle.*;
+
+public class $[AppName] extends Playground
+{
+  void main()
+  {
+    st();
+
+  }
+}
+
+

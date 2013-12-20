@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdroidtoolsWin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsWin/ExecDebugRT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsWin/ExecDebugAplu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsWin/aplu5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsWin/ExecDebugAll.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsWin/LogCat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pyth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/App/Pyth.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

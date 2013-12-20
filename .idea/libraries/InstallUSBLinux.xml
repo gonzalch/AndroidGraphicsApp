@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InstallUSBLinux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/InstallUSBLinux/InstallUSBLinux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

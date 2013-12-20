@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjectBuilder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/ProjectBuilder_Desktop/ProjectBuilder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

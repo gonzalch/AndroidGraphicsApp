@@ -1,0 +1,21 @@
+// $[AppName].java
+
+package $[PackageName];
+
+import ch.aplu.android.*;
+
+public class $[AppName] extends GameGrid 
+{
+  
+  public $[AppName]()
+  {
+    super(10, 10, 0, RED);
+  }
+
+  public void main()
+  {
+    showToast("$[AppName] started");
+  }
+}
+
+

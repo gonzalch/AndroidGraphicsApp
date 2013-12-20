@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdroidtoolsLinux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsLinux/ExecDebugAll.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsLinux/LogCat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsLinux/ExecDebugAplu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsLinux/ExecDebugRT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTurtleLib/LogCat/jdroidtoolsLinux/aplu5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
